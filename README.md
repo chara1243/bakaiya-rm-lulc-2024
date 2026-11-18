@@ -64,7 +64,7 @@ Random Forest classifier with 300 decision trees.
 
 ## 9. Author
 
-Bhattarai, c.(2026)
+Bhattarai, C.(2026)
 
 ## 10. License
 
